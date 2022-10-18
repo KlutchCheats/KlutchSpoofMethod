@@ -1,0 +1,30 @@
+-----------------------
+CLEANER:
+
+1: Run klutch val cleaner as admin
+2: say yes to the clean
+-----------------------
+
+-----------------------
+MONOTONE:
+
+1: Launch monotone
+2: Click spoof
+-----------------------
+
+-----------------------
+FLASH BIOS:
+
+1: download the latest bios update and put the file on a usb
+2: go into your bios and click F12 to open bios flasher utility
+3: flash your bios via the usb that has the bios update
+4: restart pc after its completed
+-----------------------
+
+-----------------------
+INSTALL VALORANT:
+
+1: install valorant again
+2: make a fresh new account (or generate an account)
+3: enjoy playing valorant again!
+-----------------------
